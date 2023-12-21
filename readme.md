@@ -42,7 +42,7 @@ pip install pyserial configparser
 # <span id = "sdkprepare">5.SDK preparation</span> 
 
 ```
-git clone --recursive https://github.com/Ai-Thinker-Open/Ai-Thinker-LoRaWAN-Ra-08.git
+git clone --recursive https://github.com/nikhil-robinson/Ai-Thinker-LoRaWAN-Ra-08.git
 ```
 
 # <span id = "makeflash">6.Compiling & Programming & Running</span>
